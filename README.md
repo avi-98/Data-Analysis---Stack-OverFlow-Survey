@@ -5,7 +5,9 @@ The data is cleaned, filtered and then used as per will to draw interesting and 
 
 The Analysis.ipynb file is the main code file.
 
-The data is in Data_Survey(compressed file).
+The data can be found on link - https://drive.google.com/open?id=15R1o9xJ3iERvvsD17_zqWyu12AB3B8ik
+
+The data is in Data_Survey.zip . 
 
 Data_Survey has 2 files - 
 
